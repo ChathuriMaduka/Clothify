@@ -2,7 +2,7 @@
 //  ClothifyUITests.swift
 //  ClothifyUITests
 //
-//  Created by UDITH Wijegunavardhana on 2024-03-28.
+//  Created by Chathuri MADUKA a on 2024-03-28.
 //
 
 import XCTest
